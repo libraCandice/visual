@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="48px" viewBox="0 0 1920 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>title1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="系统监控中心1备份-2" fill="#082858">
+            <g id="top" transform="translate(-0.000000, 0.000000)">
+                <g id="title1" transform="translate(0.000000, 0.000000)">
+                    <rect id="矩形" x="0" y="0" width="1920" height="32"></rect>
+                    <polygon id="矩形" points="368 32 706 32 690 48 384 48"></polygon>
+                    <polygon id="矩形备份" points="1214 32 1552 32 1536 48 1230 48"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

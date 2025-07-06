@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 700 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>编组 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-1.18571819e-13 24 4 24 18 9.5 84 9 73.5 0 14 -5.31588662e-14 0 13.5"></polygon>
+        <filter x="-10.7%" y="-37.5%" width="121.4%" height="175.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.250980392   0 0 0 0 0.752941176   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="-1.18571819e-13 24 4 24 18 9.5 84 9 73.5 0 14 -5.31588662e-14 0 13.5"></polygon>
+        <filter x="-10.7%" y="-37.5%" width="121.4%" height="175.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.250980392   0 0 0 0 0.752941176   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="131 5 612 5 620 9 123 9"></polygon>
+        <filter x="-1.8%" y="-225.0%" width="103.6%" height="550.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.250980392   0 0 0 0 0.752941176   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="大屏01" transform="translate(-1202.000000, -90.000000)">
+            <g id="ditu1" transform="translate(1208.000000, 96.000000)">
+                <g id="地图外框">
+                    <g id="编组-16">
+                        <polygon id="矩形" fill="#007AB6" points="72 5 658 5 652 9 77 9"></polygon>
+                        <g id="编组-14">
+                            <g id="路径-13">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#40C0FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <rect id="矩形" fill="#090F25" x="18" y="3" width="4" height="4"></rect>
+                            <rect id="矩形备份-11" fill="#090F25" x="26" y="3" width="4" height="4"></rect>
+                            <rect id="矩形备份-12" fill="#090F25" x="34" y="3" width="4" height="4"></rect>
+                        </g>
+                        <g id="编组-14备份" transform="translate(646.000000, 12.000000) scale(-1, 1) translate(-646.000000, -12.000000) translate(604.000000, 0.000000)">
+                            <g id="路径-13">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#40C0FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <rect id="矩形" fill="#090F25" x="18" y="3" width="4" height="4"></rect>
+                            <rect id="矩形备份-11" fill="#090F25" x="26" y="3" width="4" height="4"></rect>
+                            <rect id="矩形备份-12" fill="#090F25" x="34" y="3" width="4" height="4"></rect>
+                        </g>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#40C0FF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
